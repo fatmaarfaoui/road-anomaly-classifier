@@ -1,5 +1,10 @@
 # Road Anomaly Classifier
 
+## Team Members
+
+- Fatma Arfaoui
+- Razan Nagy
+
 ## Project Description
 This project is a computer vision system for detecting road hazards using machine learning.
 
