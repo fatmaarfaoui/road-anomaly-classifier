@@ -2,8 +2,8 @@
 
 ## Team Members
 
-- Fatma Arfaoui
-- Razan Nagy
+- Fatma Arfaoui 16001875
+- Razan Nagy 16001893
 
 ## Project Description
 This project is a computer vision system for detecting road hazards using machine learning.
