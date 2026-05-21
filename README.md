@@ -4,6 +4,8 @@
 
 - Fatma Arfaoui 16001875
 - Razan Nagy 16001893
+- Ahmed Khaled 13000859
+- Ahmed Nazeem 22001207
 
 ## Project Description
 This project is a computer vision system for detecting road hazards using machine learning.
