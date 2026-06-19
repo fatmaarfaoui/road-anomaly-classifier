@@ -1,5 +1,12 @@
 # Milestone 2 – Traffic Sign Detection using YOLOv8
 
+## Team Members
+
+- Fatma Arfaoui 16001875
+- Razan Nagy 16001893
+- Ahmed Khaled 13000859
+- Ahmed Nazeem 22001207
+
 ## Overview
 This milestone implements a traffic sign detection and recognition system using the YOLOv8 object detection model as part of the Autonomous Driving project.
 
